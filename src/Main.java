@@ -198,6 +198,6 @@ public class Main {
         System.out.println(" ");
         findSalaryLess(randSalary);
         System.out.println(" ");
-//        findSalaryExceed(randSalary);
+        findSalaryExceed(randSalary);
     }
 }
